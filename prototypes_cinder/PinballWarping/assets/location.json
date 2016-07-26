@@ -1,0 +1,102 @@
+[
+   {
+      "id" : "FLIPPER_LEFT",
+      "pos" : [ "210", "805" ],
+      "rad" : 15
+   },
+   {
+      "id" : "FLIPPER_RIGHT",
+      "pos" : [ "360", "807" ],
+      "rad" : 15
+   },
+   {
+      "id" : "SLINGSHOT_LEFT",
+      "pos" : [ "122", "677" ],
+      "rad" : 15
+   },
+   {
+      "id" : "SLINGSHOT_RIGHT",
+      "pos" : [ "444", "668" ],
+      "rad" : 15
+   },
+   {
+      "id" : "SLINGSHOT_LEFT_UPPER",
+      "pos" : [ "74", "470" ],
+      "rad" : 15
+   },
+   {
+      "id" : "SLINGSHOT_RIGHT_UPPER",
+      "pos" : [ "501", "464" ],
+      "rad" : 15
+   },
+   {
+      "id" : "BUMPER_LEFT",
+      "pos" : [ "207", "315" ],
+      "rad" : 30
+   },
+   {
+      "id" : "BUMPER_RIGHT",
+      "pos" : [ "326", "313" ],
+      "rad" : 30
+   },
+   {
+      "id" : "BUMPER_CENTER",
+      "pos" : [ "266", "460" ],
+      "rad" : 30
+   },
+   {
+      "id" : "PLUNGER",
+      "pos" : [ "580", "890" ],
+      "rad" : 15
+   },
+   {
+      "id" : "BUTTON_SEVEN_EIGHT",
+      "pos" : [ "105", "574" ],
+      "rad" : 15
+   },
+   {
+      "id" : "BUTTON_TEN",
+      "pos" : [ "470", "341" ],
+      "rad" : 15
+   },
+   {
+      "id" : "BUTTON_JACK",
+      "pos" : [ "457", "299" ],
+      "rad" : 15
+   },
+   {
+      "id" : "BUTTON_QUEEN",
+      "pos" : [ "435", "256" ],
+      "rad" : 15
+   },
+   {
+      "id" : "BUTTON_KING_TWO",
+      "pos" : [ "180", "223" ],
+      "rad" : 15
+   },
+   {
+      "id" : "BUTTON_ACE",
+      "pos" : [ "290", "216" ],
+      "rad" : 15
+   },
+   {
+      "id" : "BUTTON_THREE",
+      "pos" : [ "151", "259" ],
+      "rad" : 15
+   },
+   {
+      "id" : "BUTTON_FOUR",
+      "pos" : [ "131", "299" ],
+      "rad" : 15
+   },
+   {
+      "id" : "BUTTON_FIVE",
+      "pos" : [ "117", "344" ],
+      "rad" : 15
+   },
+   {
+      "id" : "BUTTON_SIX_NINE",
+      "pos" : [ "108", "385" ],
+      "rad" : 15
+   }
+]

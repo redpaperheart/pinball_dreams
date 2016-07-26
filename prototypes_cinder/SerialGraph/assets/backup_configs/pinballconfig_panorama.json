@@ -1,0 +1,174 @@
+{
+   "sensors" : [
+      {
+         "id" : 0,
+         "max_avg_delta" : 227,
+         "max_frame_delta" : 319,
+         "max_val" : 416,
+         "min_val" : 6,
+         "name" : "Flipper Left",
+         "type" : "hall"
+      },
+      {
+         "id" : 1,
+         "max_avg_delta" : 227,
+         "max_frame_delta" : 288,
+         "max_val" : 413,
+         "min_val" : 7,
+         "name" : "Flipper Right",
+         "type" : "hall"
+      },
+      {
+         "id" : 2,
+         "max_avg_delta" : 229,
+         "max_frame_delta" : 316,
+         "max_val" : 414,
+         "min_val" : 7,
+         "name" : "Slingshot Left",
+         "type" : "hall"
+      },
+      {
+         "id" : 3,
+         "max_avg_delta" : 153,
+         "max_frame_delta" : 148,
+         "max_val" : 353,
+         "min_val" : 77,
+         "name" : "Slingshot Right",
+         "type" : "hall"
+      },
+      {
+         "id" : 4,
+         "max_avg_delta" : 227,
+         "max_frame_delta" : 218,
+         "max_val" : 416,
+         "min_val" : 7,
+         "name" : "Slingshot Upper Left",
+         "type" : "hall"
+      },
+      {
+         "id" : 5,
+         "max_avg_delta" : 169,
+         "max_frame_delta" : 214,
+         "max_val" : 318,
+         "min_val" : 14,
+         "name" : "Slingshot Upper Right",
+         "type" : "hall"
+      },
+      {
+         "id" : 6,
+         "max_avg_delta" : 106,
+         "max_frame_delta" : 109,
+         "max_val" : 270,
+         "min_val" : 147,
+         "name" : "Bumper Left",
+         "type" : "hall"
+      },
+      {
+         "id" : 7,
+         "max_avg_delta" : 116,
+         "max_frame_delta" : 142,
+         "max_val" : 299,
+         "min_val" : 122,
+         "name" : "Bumper Right",
+         "type" : "hall"
+      },
+      {
+         "id" : 8,
+         "max_avg_delta" : 148,
+         "max_frame_delta" : 211,
+         "max_val" : 396,
+         "min_val" : 8,
+         "name" : "Bumper Center",
+         "type" : "hall"
+      },
+      {
+         "id" : 9,
+         "max_val" : 227,
+         "min_val" : 10,
+         "name" : "Plunger",
+         "threshold" : 110.5,
+         "type" : "plunger"
+      },
+      {
+         "id" : 10,
+         "max_val" : 977,
+         "min_val" : 294,
+         "name" : "Button 7-8",
+         "threshold" : 635.5,
+         "type" : "photo"
+      },
+      {
+         "id" : 11,
+         "max_val" : 983,
+         "min_val" : 163,
+         "name" : "Button 10",
+         "threshold" : 573,
+         "type" : "photo"
+      },
+      {
+         "id" : 12,
+         "max_val" : 988,
+         "min_val" : 104,
+         "name" : "Button Jack",
+         "threshold" : 546,
+         "type" : "photo"
+      },
+      {
+         "id" : 13,
+         "max_val" : 922,
+         "min_val" : 166,
+         "name" : "Button Queen",
+         "threshold" : 544,
+         "type" : "photo"
+      },
+      {
+         "id" : 14,
+         "max_val" : 995,
+         "min_val" : 141,
+         "name" : "Button King 2",
+         "threshold" : 568,
+         "type" : "photo"
+      },
+      {
+         "id" : 15,
+         "max_val" : 977,
+         "min_val" : 78,
+         "name" : "Button Ace",
+         "threshold" : 527.5,
+         "type" : "photo"
+      },
+      {
+         "id" : 16,
+         "max_val" : 985,
+         "min_val" : 63,
+         "name" : "Button 3",
+         "threshold" : 524,
+         "type" : "photo"
+      },
+      {
+         "id" : 17,
+         "max_val" : 990,
+         "min_val" : 165,
+         "name" : "Button 4",
+         "threshold" : 577.5,
+         "type" : "photo"
+      },
+      {
+         "id" : 18,
+         "max_val" : 986,
+         "min_val" : 172,
+         "name" : "Button 5",
+         "threshold" : 579,
+         "type" : "photo"
+      },
+      {
+         "id" : 19,
+         "max_val" : 962,
+         "min_val" : 107,
+         "name" : "Button 6-9",
+         "threshold" : 534.5,
+         "type" : "photo"
+      }
+   ],
+   "thresh_delta_pct" : 0.44999998807907104
+}

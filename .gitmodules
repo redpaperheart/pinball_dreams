@@ -1,0 +1,6 @@
+[submodule "shared/cinder_blocks/Cinder-Config"]
+	path = shared/cinder_blocks/Cinder-Config
+	url = https://github.com/dawidgorny/Cinder-Config
+[submodule "shared/cinder_blocks/Cinder-Warping"]
+	path = shared/cinder_blocks/Cinder-Warping
+	url = https://github.com/paulhoux/Cinder-Warping

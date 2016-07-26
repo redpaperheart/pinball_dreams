@@ -1,0 +1,41 @@
+*{
+	background-color: black;
+	/*max-width: 1200px; */
+        min-width: 1000px;
+}
+
+h1{
+	font-family: Garamond;
+	color: white;
+	font-size: 30pt;
+}
+
+p{
+        font-family: Arial;
+	color: white;        
+	font-size: 20pt;
+}
+
+strong{
+	font-weight: 900;
+	color: red;
+}
+
+img{
+        float: left;
+        display: inline;
+        margin: 10px;
+}
+
+#images{  
+}
+
+#original{
+      /*  width: 320px;      
+        height: 240px;     */
+}
+
+#fixed{
+
+
+}		
